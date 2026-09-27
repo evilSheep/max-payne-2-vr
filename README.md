@@ -6,7 +6,7 @@
 
 [YouTube channel](https://www.youtube.com/@1EvilSheep1)
 
-**A free PC VR mod for Max Payne 2: The Fall of Max Payne, by evilSheep.**
+**A free PC VR mod for Max Payne 2: The Fall of Max Payne.**
 
 Play as Max and Mona with tracked hands, physical weapons, manual reloading and bullet-time combat in VR.
 Please note this is a mod for a 20+ year old game... there will be bugs and jank. That said, I do plan on regular releases and bug fixes as needed.
