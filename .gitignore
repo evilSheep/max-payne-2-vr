@@ -1,0 +1,14 @@
+*.zip
+*.asi
+*.dll
+*.exe
+*.ras
+*.mp2m
+*.bin
+*.wav
+*.dds
+*.tga
+*.dmp
+*.log
+setup-files/
+MP2VR-Install/

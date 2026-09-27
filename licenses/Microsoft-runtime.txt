@@ -1,0 +1,17 @@
+Microsoft C/C++ Runtime
+
+Original C++ binaries use the Visual Studio 2022 runtime through static linkage.
+The isolated Python/NumPy runtime includes unmodified application-local release
+runtime DLLs. The vcruntime files are sourced from Visual Studio 2022 Community's
+VC/Redist/MSVC/14.44.35112/x64/Microsoft.VC143.CRT directory. NumPy's renamed
+msvcp140 DLL is retained with the wheel's complete notices.
+
+Copyright Microsoft Corporation. All rights reserved.
+These files are not covered by the mod's original-component permission.
+Redistribution is subject to the Microsoft Software License Terms applicable
+to the licensed toolchain and its Distributable Code list:
+https://learn.microsoft.com/en-us/visualstudio/releases/2022/redistribution
+
+No debug runtime, compiler, SDK, Windows system DLL or game-supplied Microsoft
+library is included. .NET Framework and the Windows audio codecs are used from
+the user's operating system and are not redistributed in this package.

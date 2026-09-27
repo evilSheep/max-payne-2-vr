@@ -1,0 +1,39 @@
+Max Payne 2 VR — original mod components
+Copyright (c) 2026 evilSheep. All rights reserved.
+
+Permission is granted to use this mod and to copy and redistribute its complete,
+unmodified official release packages free of charge, retaining this notice and
+all accompanying third-party notices. This permission does not grant rights to
+Max Payne 2, its assets, generated game-derived files, trademarks, or any other
+third-party material. The VR runtime development source is not included. The accompanying original
+Setup scripts are supplied for installation use under this same permission. Separately licensed components retain their own terms.
+
+THE ORIGINAL MOD COMPONENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE
+LAW, THE AUTHOR IS NOT LIABLE FOR CLAIMS OR DAMAGES ARISING FROM THEIR USE.
+
+# Third-party notices
+
+The mod uses licensed third-party code. It is not described as containing only evilSheep's code. Complete notices are included in `licenses/`.
+
+| Component | Use | Notice |
+| --- | --- | --- |
+| MinHook / HDE | Runtime hooks | [BSD-style notices](licenses/MinHook-HDE.txt) |
+| OpenVR, Valve; headers 2.15.6 | SteamVR API; runtime installed separately | [BSD-3-Clause](licenses/OpenVR.txt) |
+| d3d8to9 1.15.1, Patrick Mours | D3D8-to-D3D9 wrapper, including original MP2VR integration changes | [BSD-2-Clause](licenses/d3d8to9.txt) |
+| PSVR2 Toolkit public API | Optional adaptive-trigger helper; toolkit not bundled | [MIT](licenses/PSVR2Toolkit.txt) |
+| Python 3.12.14 | Isolated Setup runtime, reduced standard-library package | [Python and included-component licenses](licenses/Python.txt) |
+| NumPy 2.3.5, OpenBLAS and LAPACK | Local geometry generation | [Complete wheel notices](licenses/NumPy.txt) |
+| Pillow 12.3.0 and bundled image libraries | Local silhouette rasterization | [Complete wheel notices](licenses/Pillow.txt) |
+| libffi | Python ctypes | [MIT](licenses/libffi.txt) |
+| Microsoft C/C++ runtime | Static runtime in original binaries and unmodified application-local redistributables | [Redistribution information](licenses/Microsoft-runtime.txt) |
+
+Portions of the Pillow dependency are copyright © 1996–2026 The FreeType Project (https://freetype.org). All rights reserved. Its FreeType License is selected for this distribution; the full notice appears in Pillow's license bundle.
+
+The Setup runtime is reduced to its required modules. Pillow's unused embedded default-font functions are replaced with explicit unsupported-operation stubs; their font/image data is omitted. The modified file is marked, and the original copyright notices are preserved. Image and polygon operations used for silhouettes are unchanged.
+
+The installer does not contain the historical GPL KF2 parser, FPS Mod, RASMaker2, SteamVR, PSVR2 Toolkit's driver, MP2 executable/libraries or game assets. Our local asset reader and archive writer are original implementation code. Setup invokes archive functions from the user's verified game installation and Windows' installed audio codec.
+
+Third-party licenses govern their own components and are unaffected by the original-mod license. They do not grant rights to MP2 or its game data. Names and trademarks remain with their owners; inclusion does not imply endorsement.
+
