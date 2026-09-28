@@ -8,6 +8,7 @@ You need the English Steam version of Max Payne 2, Windows 10/11, and a headset 
 4. Select `maxpayne2.exe` in your Steam game folder and click **Install / update**.
 5. Wait for **Installation complete**. This can take a few minutes.
 6. Start SteamVR, then launch Max Payne 2 from Steam. Select **MP2VR_FirstPerson** in the game's startup window.
+7. Ensure that **D3D Hardware T&L** is selected for Acceleration. Click Play
 
 Adjust your preferences in **VR Settings** from the main menu.
 
