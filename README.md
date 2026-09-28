@@ -26,10 +26,18 @@ Please note this is a mod for a 20+ year old game... there will be bugs and jank
 
 ## Melee
 
-- you must swing hard enough for enemies to react to melee hits.
-- standard enemies take 5 hits to kill unarmed, 3 hits to kill if using a weapon.
-- a 3 hit unarmed combo (2 hits with a weapon) will stagger an enemy, at which point you can disarm them by grabbing their weapon.
-- you can also disarm an enemy while shoot dodging, throwing a weapon at them to stagger them, or if they are knocked over.
+- You must swing hard enough for enemies to react to melee hits.
+- Standard enemies take 5 hits to kill unarmed, 3 hits to kill if using a weapon.
+- A 3 hit unarmed combo (2 hits with a weapon) will stagger an enemy, at which point you can disarm them by grabbing their weapon.
+- You can also disarm an enemy while shoot dodging, throwing a weapon at them to stagger them, or if they are knocked over.
+
+## Holsters
+
+- Gun holsters are located on your lower chest on either side.
+- Ammo can be grabbed from either hip.
+- Painkillers can be grabbed from the mid upper chest, bring to your mouth to consume.
+- Grenades are located in shoulder holsters.
+- Check the VR options, there are more configurations as well as an optional shoulder holster for long guns.
 
 ## Requirements
 
