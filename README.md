@@ -55,6 +55,7 @@ Download the mod ZIP from this repository's **Releases** page. The **Code → Do
 2. Extract the entire mod ZIP. Keep the `setup-files` folder beside **Max Payne 2 VR Setup.exe**.
 3. Run **Max Payne 2 VR Setup.exe**, select your game's `maxpayne2.exe`, and click **Install / update**. Wait for installation to finish; it can take a few minutes.
 4. Start SteamVR, launch Max Payne 2 from Steam, and select **MP2VR_FirstPerson** in the game's startup window.
+5. Ensure that **D3D Hardware T&L** is selected for Acceleration. Click Play
 
 Open **VR Settings** from the main menu to customize the experience. See the [installation guide](INSTALLATION.md) and [controller guide](CONTROLS.md) for details.
 
