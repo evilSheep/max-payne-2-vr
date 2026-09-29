@@ -68,7 +68,7 @@ Use this repository's **Issues** page. Include the mod version, headset, PC VR c
 ## Credits and distribution
 
 Mod by **evilSheep**. Third-party software credits and license notices are included in [LICENSE.txt](LICENSE.txt) and [licenses](licenses/).
-This mod was developed using Codex AI.
+Codex AI was used during development to assist with coding, debugging, research, and documentation. **evilSheep** directs the project and tests the mod in-game, with community feedback helping identify issues across different headsets and PC setups. **evilSheep** is responsible for what ships, including any bugs.
 
 The download contains mod software and licensed dependencies. Required game-derived assets are generated on your computer from your own game installation during Setup; game assets are not included in the release. FPS Mod is not required or bundled.
 
