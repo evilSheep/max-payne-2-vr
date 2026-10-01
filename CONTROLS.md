@@ -11,7 +11,7 @@
 | Y / B \| Triangle / Circle | Eject magazine |
 | Y / B \| Triangle / Circle (holding a grenade) | Switch grenade type with the optional shoulder layout |
 | A \| Cross | Jump |
-| X \| Square | Use painkiller (Manual Painkillers off) |
+| X \| Square | Use painkiller (Manual Painkillers off) / Quick save (long press) / Pause (double press)|
 | Options | Pause / game menu |
 | Left Menu \| PS button | SteamVR dashboard; also pauses the game |
 
