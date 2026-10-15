@@ -28,6 +28,7 @@ The mod uses licensed third-party code. It is not described as containing only e
 | Pillow 12.3.0 and bundled image libraries | Local silhouette rasterization | [Complete wheel notices](licenses/Pillow.txt) |
 | libffi | Python ctypes | [MIT](licenses/libffi.txt) |
 | Microsoft C/C++ runtime | Static runtime in original binaries and unmodified application-local redistributables | [Redistribution information](licenses/Microsoft-runtime.txt) |
+| Steam Frame helpers, Madison (astromaddie) | Optional Steam Frame support in `steam-frame/`, see `docs/STEAM_FRAME_VR.md` | [MIT](steam-frame/LICENSE.txt) |
 
 Portions of the Pillow dependency are copyright © 1996–2026 The FreeType Project (https://freetype.org). All rights reserved. Its FreeType License is selected for this distribution; the full notice appears in Pillow's license bundle.
 

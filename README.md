@@ -44,6 +44,7 @@ Please note this is a mod for a 20+ year old game... there will be bugs and jank
 - Your own installed copy of **Max Payne 2: The Fall of Max Payne**. Setup supports the **English Steam version** and the verified **German Steam 1.1.102.0** executable; other builds are not verified.
 - A Windows 10/11 gaming PC with SteamVR installed.
 - A PC-connected VR headset and two tracked controllers. Development testing used **PSVR2** and **Quest 3 through PC VR**. This is not a standalone Quest application.
+- **Steam Frame (standalone):** community support through Proton, with the additions in `steam-frame/`. See [docs/STEAM_FRAME_VR.md](docs/STEAM_FRAME_VR.md).
 
 PSVR2 adaptive triggers use the optional **PSVR2 Toolkit**, installed separately. Standard controller vibration does not require the toolkit.
 
