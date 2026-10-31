@@ -28,6 +28,8 @@ The mod uses licensed third-party code. It is not described as containing only e
 | Pillow 12.3.0 and bundled image libraries | Local silhouette rasterization | [Complete wheel notices](licenses/Pillow.txt) |
 | libffi | Python ctypes | [MIT](licenses/libffi.txt) |
 | Microsoft C/C++ runtime | Static runtime in original binaries and unmodified application-local redistributables | [Redistribution information](licenses/Microsoft-runtime.txt) |
+| "Low Poly Skeleton For Maya", 606tom | Gore's inner skeleton, modified and compiled into maxpayne2gore.asi; not redistributable on its own | [RenderHub Extended Use License](licenses/Gore-assets.txt) |
+| "Human Skull", CDmir | Gore's skull, modified and compiled into maxpayne2gore.asi | [CC0](licenses/Gore-assets.txt) |
 
 Portions of the Pillow dependency are copyright © 1996–2026 The FreeType Project (https://freetype.org). All rights reserved. Its FreeType License is selected for this distribution; the full notice appears in Pillow's license bundle.
 

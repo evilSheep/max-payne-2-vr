@@ -1,0 +1,25 @@
+Gore (wounds, blood and dismemberment) - third-party assets
+============================================================
+
+The wound and dismemberment system (maxpayne2gore.asi) draws an inner skeleton built from
+the models below. Both are compiled into the mod in modified form: reduced to a lower
+polygon count and refitted to Max Payne 2's character skeleton. The original model files
+are not included in the download or the repository.
+
+"Low Poly Skeleton For Maya" by 606tom
+  https://www.renderhub.com/606tom/lowpoly-skeleton
+  Licence: RenderHub Extended Use License (https://renderhub.com/info/3d-content-licensing).
+  Used only as part of this mod; it may not be extracted or redistributed on its own.
+  Use: the skeleton's body (spine, rib cage, pelvis, limbs, hands and feet). Modified:
+  polygons reduced, its skull removed, bones refitted.
+
+"Human Skull" by CDmir
+  https://opengameart.org/content/human-skull-0
+  Licence: CC0 1.0 (public domain) - https://creativecommons.org/publicdomain/zero/1.0/
+  Use: the skull, jaw and teeth. Modified: reduced from 4,548 to about 1,500 triangles,
+  fitted to each character's head.
+
+The skull and muscle textures were made for this project by evilSheep.
+
+No Max Payne 2 game files are included. The muscle layer and every other game-derived
+shape are built at run time from the player's own installation.

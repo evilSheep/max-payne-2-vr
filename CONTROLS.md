@@ -38,3 +38,42 @@ The save/load/menu shortcut uses **left A** on Index and **D-pad Down** on Steam
 Frame controllers. Dead Man Walking returns to its menu after death.
 
 Two-handed pistol support is enabled by default and can be changed in VR Settings.
+
+## Triggers and fingers
+
+**Trigger Sensitivity** in VR Settings > Weapons & Grips sets how far a trigger
+must be pulled to fire, from 20% to 95% of its travel. **Controller Default**
+keeps each controller's own firing point. **Disable Finger Movement** in VR
+Settings > Body & Scale keeps Max's fingers still: no trigger-finger curl or
+pointing, and no finger tracking on empty hands.
+
+## Weapon Wheel (optional)
+
+Turn on **Weapon Wheel** in VR Settings > Inventory. Hold both face buttons on one
+hand (**X + Y** or **A + B** | **Square + Triangle** or **Cross + Circle**): a ring of
+every gun Max has picked up opens around that hand. Move the hand over a gun and
+release to swap the gun in that hand for it; release in the middle to cancel. A
+single face-button press still works as usual. **All Weapons** (same menu) gives
+Max every gun, grenades and Molotovs with full ammo.
+
+## Stick Actions (optional)
+
+Turn on **Stick Actions** in VR Settings > Turning: right stick up jumps, right
+stick down crouches. Right **A | Cross** shoot-dodges when the left stick is pushed,
+and starts bullet time when it is centred. With Stick Actions on, hold a stick
+click to open that hand's Weapon Wheel.
+
+## Gore
+
+Bullet wounds, blood and dismemberment are on by default. Turn them off with
+**Gore** in VR Settings > Body & Scale. Limbs cut off a body can be picked up with
+grip and swung like a melee weapon.
+
+## Gun spinning
+
+Hold the eject button (**Y / B | Triangle / Circle**) and release grip: the gun
+spins around your trigger finger. Flick your wrist as you let go, or flick a
+still, hanging gun forwards or backwards, to start it spinning in that direction;
+hand movement keeps it going. Squeeze grip to catch it. Releasing the eject button
+while it spins lets go of the gun. Each full turn of the sawed-off loads one shell.
+Heavier guns spin more slowly. Turn it off with **Gun Spinning** in VR Settings.

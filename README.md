@@ -2,7 +2,7 @@
 
 ☕ Support on Ko-fi: [https://ko-fi.com/evilsheep](https://ko-fi.com/evilsheep)
 
-[Download the latest release](https://github.com/evilSheep/max-payne-2-vr/releases)
+[Download the latest release](https://github.com/evilSheep/max-payne-2-vr/releases/latest)
 
 [YouTube channel](https://www.youtube.com/@1EvilSheep1)
 
@@ -21,8 +21,10 @@ Please note this is a mod for a 20+ year old game... there will be bugs and jank
 - Punches, gun melee, enemy disarming, and grabbing and throwing ragdolls.
 - Catch and throw back live grenades, or bat airborne guns and grenades with a weapon.
 - Physical rifle scopes with an optional eye-lock setting.
+- Gore: bullet wounds with flesh and bone inside, blood that runs and pools, burns and dismemberment (can be turned off).
+- Gun spinning, an optional weapon wheel and optional stick actions for jumping, crouching and bullet time.
 - Wrist HUD, weapon ammo displays and a virtual screen for menus and cutscenes.
-- In-game VR settings for world scale, rendering resolution, grip modes, comfort vignette, HUD placement and more.
+- In-game VR settings for world scale, rendering resolution, grip modes, trigger sensitivity, comfort vignette, HUD placement and more.
 
 ## Melee
 
@@ -70,6 +72,7 @@ Use this repository's **Issues** page. Include the mod version, headset, PC VR c
 ## Credits and distribution
 
 Mod by **evilSheep**. Third-party software credits and license notices are included in [LICENSE.txt](LICENSE.txt) and [licenses](licenses/).
+The gore system's inner skeleton is built from "Low Poly Skeleton For Maya" by [606tom](https://www.renderhub.com/606tom) (RenderHub Extended Use License) and "Human Skull" by CDmir (CC0), both modified; see [licenses/Gore-assets.txt](licenses/Gore-assets.txt).
 Codex AI was used during development to assist with coding, debugging, research, and documentation. **evilSheep** directs the project and tests the mod in-game, with community feedback helping identify issues across different headsets and PC setups. **evilSheep** is responsible for what ships, including any bugs.
 
 The download contains mod software and licensed dependencies. Required game-derived assets are generated on your computer from your own game installation during Setup; game assets are not included in the release. FPS Mod is not required or bundled.
