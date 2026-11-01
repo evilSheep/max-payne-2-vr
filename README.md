@@ -65,6 +65,16 @@ You can also [set VR resolution in the INI before launching](INSTALLATION.md): e
 
 To update, run Setup from the new release. To remove the mod, run Setup and choose **Uninstall**. The installer preserves saves and user settings.
 
+## FAQ
+
+**The SteamVR menu is stuck in front of me and I can't close it.**
+Steam is showing Max Payne 2 in **Desktop Game Theatre**, its mode for flat games, and that keeps the SteamVR menu open over the VR game. Turn it off for Max Payne 2:
+
+1. Quit the game.
+2. In your Steam **Library**, right-click **Max Payne 2: The Fall of Max Payne** and choose **Properties**.
+3. On the **General** page, turn off **Use Desktop Game Theatre while SteamVR is active**.
+4. Start the game again.
+
 ## Reporting problems
 
 Use this repository's **Issues** page. Include the mod version, headset, PC VR connection method, level, what happened and how to reproduce it. For performance problems, include your CPU, GPU and VR resolution.
