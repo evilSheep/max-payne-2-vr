@@ -28,6 +28,8 @@ the desktop resolution in the launcher.
 
 **Valve Index:** close Max Payne 2 and exit SteamVR, then run **Fix Index Controls.cmd** once. Restart SteamVR afterward. The fix covers standard and German Steam editions. This fixes stick clicks and maps right A to jump, left A to painkillers when enabled, and squeeze to grab. If you use a custom binding, select **Default** for Max Payne 2 in SteamVR. A SteamVR update may require running the fix again; **Restore Index Controls.cmd** undoes it.
 
+**Steam Frame (optional, for the Weapon Wheel):** close Max Payne 2 and exit SteamVR, then run **Fix Frame Controls.cmd** once. Right B and left D-pad Left then open the weapon wheel; nothing else changes. It covers standard and German Steam editions. A SteamVR update may require running it again; **Restore Frame Controls.cmd** undoes it.
+
 To update, run Setup from the latest release. To remove the mod, run Setup and choose **Uninstall**.
 
 **Linux / Wine:** for the `kSegments` or generated-geometry validation error,

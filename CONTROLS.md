@@ -52,9 +52,20 @@ pointing, and no finger tracking on empty hands.
 Turn on **Weapon Wheel** in VR Settings > Inventory. Hold both face buttons on one
 hand (**X + Y** or **A + B** | **Square + Triangle** or **Cross + Circle**): a ring of
 every gun Max has picked up opens around that hand. Move the hand over a gun and
-release to swap the gun in that hand for it; release in the middle to cancel. A
+release to swap the gun in that hand for it; release in the middle to cancel.
+This works with an empty hand too: the chosen gun goes into it and stays there
+until you squeeze and let go of grip. A
 single face-button press still works as usual. **All Weapons** (same menu) gives
 Max every gun, grenades and Molotovs with full ammo.
+
+**Steam Frame controllers:** SteamVR's default Frame binding gives the mod the
+same button for right B, X and Y, and for left D-pad Up, Left and Right, so the
+two-button hold can't work on the left D-pad. Close the game and SteamVR, then
+run **Fix Frame Controls.cmd** from the mod download once. After that, right
+**B** opens the right hand's wheel and left **D-pad Left** opens the left hand's,
+each on its own press; X / Y and D-pad Up / Right still eject, and every other
+button is unchanged. Run it again after a SteamVR update if the wheel buttons
+stop working. **Restore Frame Controls.cmd** undoes it.
 
 ## Stick Actions (optional)
 
