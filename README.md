@@ -20,9 +20,9 @@ Please note this is a mod for a 20+ year old game... there will be bugs and jank
 - Bullet time and shoot dodges, with smooth or snap turning.
 - Punches, gun melee, enemy disarming, and grabbing and throwing ragdolls.
 - Catch and throw back live grenades, or bat airborne guns and grenades with a weapon.
-- Physical rifle scopes with an optional eye-lock setting.
+- Physical rifle scopes with an eye-lock setting (on by default).
 - Gore: bullet wounds with flesh and bone inside, blood that runs and pools, burns and dismemberment (can be turned off).
-- Gun spinning, an optional weapon wheel and optional stick actions for jumping, crouching and bullet time.
+- Gun spinning, an optional weapon wheel, and stick actions for jumping, crouching and bullet time.
 - Wrist HUD, weapon ammo displays and a virtual screen for menus and cutscenes.
 - In-game VR settings for world scale, rendering resolution, grip modes, trigger sensitivity, comfort vignette, HUD placement and more.
 
@@ -43,7 +43,7 @@ Please note this is a mod for a 20+ year old game... there will be bugs and jank
 
 ## Requirements
 
-- Your own installed copy of **Max Payne 2: The Fall of Max Payne**. Setup supports the **English Steam version** and the verified **German Steam 1.1.102.0** executable; other builds are not verified.
+- Your own installed copy of **Max Payne 2: The Fall of Max Payne**. Setup supports the **English Steam version**, the verified **German Steam 1.1.102.0** executable and the **Italian Steam edition**; other builds are not verified.
 - A Windows 10/11 gaming PC with SteamVR installed.
 - A PC-connected VR headset and two tracked controllers. Development testing used **PSVR2** and **Quest 3 through PC VR**. This is not a standalone Quest application.
 

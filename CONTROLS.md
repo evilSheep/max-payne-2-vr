@@ -3,14 +3,14 @@
 | Button | Action |
 | --- | --- |
 | Left stick | Move |
-| L3 | Shoot-dodge / get up |
-| Right stick | Turn |
-| R3 | Bullet time |
+| Right stick left / right | Turn |
+| Right stick up | Jump (stands up when crouched) |
+| Right stick down | Crouch (stays crouched; walk or push up to stand) |
+| A \| Cross | Bullet time; with the left stick pushed, shoot-dodge |
 | Triggers \| L2 / R2 | Fire the weapon in that hand |
 | Grip buttons \| L1 / R1 | Grab / hold / interact |
 | Y / B \| Triangle / Circle | Eject magazine, or reload with Auto Reload enabled |
 | Y / B \| Triangle / Circle (holding a grenade) | Switch grenade type with the optional shoulder layout |
-| A \| Cross | Jump |
 | X \| Square (tap) | Use painkiller when Painkiller Location is set to Button |
 | X \| Square (double-tap within 300 ms) | Open / close the game menu, including on death |
 | X \| Square (hold for 1 second, alive) | Quick Save; release before saving again |
@@ -67,12 +67,14 @@ each on its own press; X / Y and D-pad Up / Right still eject, and every other
 button is unchanged. Run it again after a SteamVR update if the wheel buttons
 stop working. **Restore Frame Controls.cmd** undoes it.
 
-## Stick Actions (optional)
+## Stick Actions (on by default)
 
-Turn on **Stick Actions** in VR Settings > Turning: right stick up jumps, right
-stick down crouches. Right **A | Cross** shoot-dodges when the left stick is pushed,
-and starts bullet time when it is centred. With Stick Actions on, hold a stick
-click to open that hand's Weapon Wheel.
+Right stick up jumps. Right stick down crouches, and you stay crouched after you
+let go; walk, or push the right stick up, to stand. Right **A | Cross**
+shoot-dodges when the left stick is pushed, and starts bullet time when it is
+centred. Hold a stick click to open that hand's Weapon Wheel. Turn **Stick
+Actions** off in VR Settings > Turning to use the stick clicks for shoot-dodge
+and bullet time and **A | Cross** to jump.
 
 ## Gore
 

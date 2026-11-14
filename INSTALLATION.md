@@ -1,6 +1,6 @@
 # Installation
 
-You need a supported English or German Steam copy of Max Payne 2, Windows 10/11, and a headset with controllers connected through SteamVR.
+You need a supported English, German or Italian Steam copy of Max Payne 2, Windows 10/11, and a headset with controllers connected through SteamVR.
 
 1. Install Max Payne 2 through Steam, run it once, then close it.
 2. Download the mod ZIP from **Releases** and extract the whole folder.
@@ -41,6 +41,10 @@ compatibility remains unverified.
 **German Steam:** Setup accepts the verified original German 1.1.102.0
 executable as well as the existing English build. Select your normal game
 folder; no replacement executable is needed. German headset testing is pending.
+
+**Italian Steam:** Setup accepts the Italian Steam edition; select your normal
+game folder. Italian headset testing is pending. Physics prop grabbing (off by
+default) is not available on this edition.
 
 **Optional lighter Index grip:** with the game and SteamVR closed, run
 **Apply Lighter Index Grip.cmd**. To undo, run **Restore Standard Index Grip.cmd**.
